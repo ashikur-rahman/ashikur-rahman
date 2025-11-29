@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm **Md. Ashikur Rahman (Ashik)**  
+# 👋 Hi, I'm **Md Ashikur Rahman (Ashik)**  
 🚀 _Full-Stack Developer | Fintech API Integration Expert | AI Automation Engineer | DevOps Enthusiast_  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashikur-rahman&color=brightgreen)  

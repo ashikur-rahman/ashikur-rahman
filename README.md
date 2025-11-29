@@ -85,6 +85,22 @@ Building secure, scalable fintech systems and automation workflows integrating g
 
 ---
 
+## 📊 GitHub Stats (Auto-Updating)
+
+### ⭐ Overall GitHub Performance
+![Ashikur’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikur-rahman&show_icons=true&theme=radical)
+
+### 📘 Top Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur-rahman&layout=compact&theme=tokyonight)
+
+### 🔥 Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashikur-rahman&theme=highcontrast)
+
+### 📈 Contribution Activity Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashikur-rahman&theme=github-dark)
+
+---
+
 ### 📫 How to reach me:
 📧 **im.md.ashikur.rahman@gmail.com**  
 📞 **+44 7353 215427**  

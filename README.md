@@ -86,7 +86,7 @@ Building secure, scalable fintech systems and automation workflows integrating g
 ---
 
 ## 📊 GitHub Stats (Auto-Updating)
-
+<!--
 ### ⭐ Overall GitHub Performance
 ![Ashikur’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikur-rahman&show_icons=true&theme=radical)
 
@@ -95,7 +95,7 @@ Building secure, scalable fintech systems and automation workflows integrating g
 
 ### 🔥 Contribution Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashikur-rahman&theme=highcontrast)
-
+-->
 ### 📈 Contribution Activity Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashikur-rahman&theme=github-dark)
 
@@ -106,6 +106,7 @@ Building secure, scalable fintech systems and automation workflows integrating g
 📞 **+44 7353 215427**  
 🌍 **[ashikur.cloud](http://ashikur.cloud:8080/)**  
 
+![Portfolio QR](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=http://ashikur.cloud:8080/)
 ---
 
 ### 😄 Pronouns:
